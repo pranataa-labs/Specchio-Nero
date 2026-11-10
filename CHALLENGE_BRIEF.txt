@@ -1,0 +1,11 @@
+[DIGITAL FORENSICS CHALLENGE]
+Konteks Soal:
+"Unit Forensik Digital menyita sebuah berkas citra restorasi resolusi tinggi dari workstation seorang kurator arsip di Florence yang diduga menyelundupkan dokumen rahasia menggunakan teknik komunikasi klandestin."
+
+Berkas Target : Monalisa.jpg
+Ukuran Berkas : 7295010 bytes
+Resolusi      : 3759 x 5175 pixels (Progressive JPEG)
+SHA-256 Hash  : 48aea78ef81a00737e25c51191126a3fd15fb8516b116ad066a9192eee28ac91
+
+Perhatian Peserta:
+Pastikan nilai SHA-256 berkas di komputer Anda cocok dengan hash di atas sebelum memulai analisis untuk memastikan berkas tidak rusak atau terkompresi selama proses pengunduhan.
